@@ -1,3 +1,5 @@
+## Set working environment
+setwd('D:/getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset')
 
 ## 1. Merges the training and the test sets to create one data set.
 
